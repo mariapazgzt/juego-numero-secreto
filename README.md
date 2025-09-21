@@ -28,6 +28,7 @@ Pon a prueba tu intuición y trata de adivinar el número oculto.
 ---
 
 ## 📂 Estructura del proyecto
+
 📦 juego-numero-secreto        # Carpeta raíz del proyecto
 ├── index.html                 # Página principal 🖼️
 ├── app.js                     # Lógica del juego 🎮
@@ -35,6 +36,7 @@ Pon a prueba tu intuición y trata de adivinar el número oculto.
 ├── img/                       # Carpeta de imágenes
 │   └── ia.png                 # Imagen decorativa 🖌️
 └── README.md                  # Documentación 📖
+
 ## 👩‍💻 Autora
 
 Hecho con ❤️ y mucho ☕ para aprender **JavaScript** de forma divertida.  
